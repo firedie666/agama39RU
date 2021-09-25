@@ -317,4 +317,10 @@ footer {
   text-decoration: none;
   color: none;
 }
+a:hover {
+color:cyan;
+letter-spacing: 3px;
+transition: 0.5s;
+transition-property: letter-spacing;
 }
+
